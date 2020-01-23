@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "noble": "noble/noble#pull/840/head"
+    "noble": "git+https://github.com/abandonware/noble.git"
   },
   "author": "Michael Fröhlich",
   "license": "MIT",
